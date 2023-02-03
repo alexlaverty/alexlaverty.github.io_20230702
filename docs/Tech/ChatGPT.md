@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+
 ---
 
 ## When someone submits a question to ChatGPT, the following occurs

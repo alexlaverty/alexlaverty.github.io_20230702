@@ -1,8 +1,8 @@
 {
-  "label": "AWS",
+  "label": "Laverty Genealogy",
   "position": 2,
   "link": {
     "type": "generated-index",
-    "description": "Amazon Web Services."
+    "description": "Tech"
   }
 }

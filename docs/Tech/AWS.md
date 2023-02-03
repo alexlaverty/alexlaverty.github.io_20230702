@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+
 ---
 
 ## What is a list of things an engineer should know about the AWS SnowFlake service?

@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+
 ---
 
 # AWS TypeScript SDK Examples
