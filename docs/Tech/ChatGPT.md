@@ -122,3 +122,32 @@ A developer looking to contribute to ChatGPT would need the following skills:
 * Understanding of the best practices in coding, testing and deployment.
 
 * Good problem-solving skills and ability to collaborate with other developers and stakeholders.
+
+
+## Explain to me how language models work and what parameters are
+
+Language models are computational models that are trained on large datasets of text to generate text in a way that resembles human language. They are used in various applications such as machine translation, text generation, sentiment analysis, and others.
+
+There are two main types of language models: character-level models and word-level models. Character-level models operate on individual characters, while word-level models operate on individual words or subwords.
+
+The main parameters that are used in language models include:
+
+* Vocabulary Size: The vocabulary size is the number of unique words in the training dataset that the model can recognize and generate. A larger vocabulary size allows the model to recognize and generate more words, but also requires more computational resources.
+
+* Model Architecture: The architecture of the model refers to the number of layers and the type of layers used in the model. Common architectures for language models include feedforward neural networks, recurrent neural networks (RNNs), and transformers.
+
+* Hidden Layer Size: The hidden layer size refers to the number of neurons in the hidden layers of the model. A larger hidden layer size can allow the model to capture more complex relationships between words, but also requires more computational resources.
+
+* Training Data: The training data used to train the model is a crucial parameter. Larger training datasets can allow the model to learn more complex relationships between words, but also require more computational resources to process.
+
+* Learning Rate: The learning rate is a hyperparameter that determines the size of the updates to the model's weights during training. A higher learning rate can result in faster convergence, but also increases the risk of overshooting the optimal solution.
+
+* Number of Epochs: The number of epochs is the number of times the model is trained on the training dataset. More epochs can lead to better performance, but also increases the risk of overfitting the training data.
+
+These are just a few examples of the parameters that are used in language models. The specific parameters and hyperparameters used will depend on the task and the architecture of the model.
+
+## What is a hyperparameter?
+
+A hyperparameter is a parameter that is set prior to training a machine learning model and controls the learning process. Unlike model parameters, which are learned from the training data during training, hyperparameters are set before training and remain fixed during the training process. Some common examples of hyperparameters include the learning rate, the number of hidden units in a neural network, the regularization strength, and the batch size.
+
+Hyperparameters play a crucial role in the training of a machine learning model, as they control the trade-off between overfitting and underfitting the training data. Choosing appropriate hyperparameters is an important part of the machine learning process and requires some trial and error.

@@ -4,13 +4,11 @@ sidebar_position: 6
 
 # Quotes
 
+"Civilization advances by extending the number of important operations which we can perform without thinking about them." - Alfred North Whitehead
+
 "The only way to do great work is to love what you do." - Steve Jobs
 
-"Believe you can and you're halfway there." - Theodore Roosevelt
-
 "Success is not final, failure is not fatal: it is the courage to continue that counts." - Winston Churchill
-
-"A leader is one who knows the way, goes the way, and shows the way." - John Maxwell
 
 "The best leaders are those most interested in surrounding themselves with assistants and associates smarter than they are." - John C. Maxwell
 
@@ -21,8 +19,6 @@ sidebar_position: 6
 "Success is not how high you have climbed, but how you make a positive difference to the world." - Roy T. Bennett
 
 "Success is liking yourself, liking what you do, and liking how you do it." - Maya Angelou
-
-"The only way to do great work is to love what you do." - Steve Jobs
 
 "If you want to live a happy life, tie it to a goal, not to people or things." - Albert Einstein
 
