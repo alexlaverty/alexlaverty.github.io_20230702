@@ -68,7 +68,7 @@ const config = {
         title: 'Alex Laverty',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/alex-laverty.png',
         },
         items: [
           {

@@ -2,6 +2,54 @@
 sidebar_position: 1
 ---
 
+## What foods are highest in anti oxidants?
+
+Many foods are high in antioxidants, and the specific highest depends on the specific antioxidant being measured. Here are some common foods that are high in antioxidants:
+
+* Berries, such as blueberries, strawberries, raspberries, and blackberries.
+* Dark chocolate.
+* Nuts and seeds, such as walnuts, almonds, and pumpkin seeds.
+* Leafy green vegetables, such as spinach, kale, and broccoli.
+* Beans and lentils.
+* Spices and herbs, such as cinnamon, cloves, oregano, and thyme.
+* Teas, such as green tea and black tea.
+* Coffee.
+* Artichokes.
+* Sweet potatoes.
+* Tomatoes.
+
+## What are the different kind of anti oxidants and what do they do?
+
+Antioxidants are substances that protect cells from damage caused by free radicals, which are highly reactive molecules that can cause oxidative stress in the body. There are various types of antioxidants, including:
+
+* Vitamin C: A water-soluble antioxidant that helps protect cells from oxidative damage and promotes skin health.
+
+* Vitamin E: A fat-soluble antioxidant that helps protect cell membranes and skin from damage caused by free radicals.
+
+* Beta-carotene: A plant pigment that the body can convert into Vitamin A, which is important for eye health and skin health.
+
+* Selenium: A trace mineral that is important for thyroid function and may help protect cells from oxidative damage.
+
+* Glutathione: A molecule produced by the body that helps protect cells from oxidative stress and detoxifies harmful substances.
+
+* Polyphenols: A group of compounds found in fruits, vegetables, and tea that have potent antioxidant properties and may help protect against chronic diseases.
+
+* Flavonoids: A group of plant pigments that have potent antioxidant and anti-inflammatory properties, including Quercetin.
+
+## What is Nicotinamide Mononucleotide (NMN) and how do it help to improve longevity?
+
+Nicotinamide Mononucleotide (NMN) is a molecule that is a form of Vitamin B3 (Niacin) and is involved in energy metabolism and DNA repair. Some studies have shown that NMN may have the potential to improve lifespan and delay the onset of age-related diseases in animals, however, more research is needed to determine the effects of NMN on human longevity.
+
+There are several mechanisms by which NMN may improve longevity and health, including:
+
+* Supporting energy metabolism: NMN is involved in the production of NAD+ (nicotinamide adenine dinucleotide), a molecule that is crucial for energy metabolism and helps cells convert food into energy.
+
+* Promoting DNA repair: NMN may help repair DNA damage and promote cell health, which could help slow the aging process.
+
+* Improving insulin sensitivity: NMN has been shown to improve insulin sensitivity, which could help prevent the development of type 2 diabetes and other age-related diseases.
+
+* Reducing oxidative stress: NMN has antioxidant properties and may help protect cells from damage caused by oxidative stress.
+
 ## What is Lycopene and how is it used by the human body?
 
 Lycopene is a naturally occurring compound that is classified as a carotenoid, which is a type of pigment found in certain fruits and vegetables, especially tomatoes. It is known for its powerful antioxidant properties, which can help to protect cells from damage caused by free radicals.
