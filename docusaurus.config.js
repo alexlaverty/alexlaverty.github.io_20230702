@@ -73,7 +73,7 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'Home',
             position: 'left',
             label: 'Docs',
           },
@@ -93,7 +93,7 @@ const config = {
             items: [
               {
                 label: 'Home',
-                to: '/docs/intro',
+                to: '/docs/Home',
               },
             ],
           },
@@ -128,7 +128,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright Alex Laverty`,
       },
       prism: {
         theme: lightCodeTheme,

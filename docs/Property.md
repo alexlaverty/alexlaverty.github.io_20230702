@@ -1,12 +1,5 @@
 ---
-slug: real-estate
-title: Finding Your Forever Home - How to Choose the Right Location and House for You.
-authors:
-  name: Alex Laverty
-  title: Alex the Kidd in Miracle World
-  url: https://github.com/alexlaverty
-  image_url: https://avatars.githubusercontent.com/u/4024404?v=4
-tags: [realestate]
+sidebar_position: 7
 ---
 
 ## What is a list of things a person should look for when looking for a good location for their house
