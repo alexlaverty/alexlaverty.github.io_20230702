@@ -31,8 +31,15 @@ If you have any information on the McGree family, call David Sandground on (03) 
 ## Patrick Joseph McGree
 
 Virtual Memorial - <https://vwma.org.au/explore/people/1775100>
+
 ![](/assets/img/laverty/war-mystery001.jpg)
 
 ## Michael Dennis MCGREE
 
+Virtual Memorial - <https://vwma.org.au/explore/people/1775099>
+
 ![](/assets/img/laverty/war-mystery002.jpg)
+
+## John Ambrose MCGREE
+
+Virtual Memorial - <https://vwma.org.au/explore/people/260979>
