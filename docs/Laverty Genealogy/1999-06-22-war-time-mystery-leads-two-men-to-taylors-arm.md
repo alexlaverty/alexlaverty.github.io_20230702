@@ -28,6 +28,11 @@ They are keen to get the photographs back to relatives of the brothers and would
 
 If you have any information on the McGree family, call David Sandground on (03) 9625 0354.
 
+## Patrick Joseph McGree
+
+Virtual Memorial - <https://vwma.org.au/explore/people/1775100>
 ![](/assets/img/laverty/war-mystery001.jpg)
+
+## Michael Dennis MCGREE
 
 ![](/assets/img/laverty/war-mystery002.jpg)
