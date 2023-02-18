@@ -162,7 +162,7 @@ You can also define wildcard entries in the access file to apply the same permis
 
 Once you have set up JMX authentication and authorization, you can connect to the JMX agent using a JMX client, such as JConsole, and provide the username and password to access the MBeans.
 
-## What should of things should you check for in Java Visual VM to identity performance issues?
+## What sort of things should you check for in Java Visual VM to identity performance issues?
 
 Java VisualVM is a powerful tool that can help you identify performance issues in your Java applications. Here are some things you can check for in Java VisualVM to identify performance issues:
 
@@ -177,3 +177,33 @@ Java VisualVM is a powerful tool that can help you identify performance issues i
 * Network activity: Check the network activity of your application to see if it is sending or receiving data inefficiently. Network bottlenecks can be a major source of performance issues in distributed applications.
 
 * Profiling: Use the profiling feature of Java VisualVM to analyze the performance of your code in more detail. This can help you identify specific methods or operations that are causing performance problems.
+
+## What can you do if your application is consuming too much heap usage memory?
+
+If your Java application is consuming too much heap usage memory, there are several things you can do to address the issue:
+
+* Increase the heap size: If your application is consistently running out of memory, you may need to increase the heap size. You can do this by specifying the maximum heap size using the -Xmx parameter when starting the JVM.
+
+* Identify memory leaks: Memory leaks occur when objects are not properly released from memory, leading to excessive heap usage over time. Use a memory profiler tool to identify memory leaks in your application, and then fix the code to properly release memory when it is no longer needed.
+
+* Optimize data structures: Certain data structures, such as hash tables or arrays, can consume a lot of memory. Consider using more memory-efficient data structures or optimizing your existing data structures to reduce memory usage.
+
+* Cache data: If your application frequently reads data from a database or other external source, consider caching the data in memory to reduce the number of requests and improve performance.
+
+Use a garbage collector that fits your application requirements: There are several different types of garbage collectors available in the JVM, each with its own strengths and weaknesses. Choose a garbage collector that is best suited for your application's memory usage patterns and workload.
+
+## What are the different types of garbage collectors and list each ones strengths and weaknesses
+
+There are several types of garbage collectors available in the Java Virtual Machine (JVM), each with its own strengths and weaknesses:
+
+* Serial collector: The serial collector is a simple, single-threaded collector that is best suited for small applications or those that have low memory requirements. It has a low overhead and is easy to tune, but can cause significant pause times when performing full garbage collections.
+
+* Parallel collector: The parallel collector is a multi-threaded collector that is designed for applications that have larger heap sizes and can benefit from concurrent garbage collection. It performs garbage collection in parallel, which can reduce pause times, but can also increase overall CPU usage.
+
+* CMS (Concurrent Mark Sweep) collector: The CMS collector is a concurrent collector that is designed to reduce pause times for applications with large heap sizes. It uses multiple threads to perform garbage collection, and can run concurrently with the application to reduce pause times. However, it can cause fragmentation of the heap, which can reduce overall performance.
+
+* G1 (Garbage First) collector: The G1 collector is a generational collector that is designed to handle large heaps with high object churn rates. It uses a region-based approach to garbage collection, which can improve overall performance by avoiding full garbage collections. However, it can also cause significant CPU overhead, and may not be as effective for applications with low object churn rates.
+
+* ZGC (Z Garbage Collector): The ZGC is a low-pause, concurrent garbage collector that is designed to handle very large heaps (multi-terabyte) in the order of tens of milliseconds. It can execute its heap and old generations concurrently, making it ideal for large datasets and high throughput operations, but has some tradeoffs in terms of increased memory overhead.
+
+When selecting a garbage collector for your application, it's important to consider the application's memory usage patterns, performance requirements, and available hardware resources. By choosing the right garbage collector and tuning its parameters, you can optimize your application's memory usage and improve its overall performance.
