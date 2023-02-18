@@ -400,3 +400,19 @@ SHA (Secure Hash Algorithm) is a family of cryptographic hash functions that are
 ## Tell me more about SHA (Secure Hash Algorithm)
 
 Secure Hash Algorithm (SHA) is a family of cryptographic hash functions designed by the National Security Agency (NSA) and published by the National Institute of Standards and Technology (NIST). The most widely used SHA algorithms are SHA-1, SHA-2, and SHA-3. The main purpose of a SHA function is to take an input message of arbitrary length and produce a fixed-length output (referred to as a "hash value") that is unique to the unique values of the input. The hash value is used to verify the integrity of the original data and to detect any tampering that may have occurred during transmission or storage. The security of a SHA function depends on its ability to generate hash values that are difficult to reproduce and predict, making it suitable for use in digital signatures, authentication, and message integrity verification.
+
+## What does the Abinitio multiplexer do?
+
+In Ab Initio, the Multiplexer component is used for creating multiple output streams from a single input stream. It splits the input stream into several output streams based on some conditions and sends each output stream to a different processing path. The conditions can be based on the data content, metadata, or a combination of both.
+
+The Ab Initio Multiplexer component is useful when you want to process the data in different ways, depending on the values of certain fields or conditions within the data. For example, you may have a data file that contains information about customers and their orders. You may want to split the file into different output streams based on the country in which the customer resides or based on the type of product they purchased. You can use the Multiplexer component to split the data into multiple output streams based on these conditions.
+
+Overall, the Ab Initio Multiplexer component is a powerful tool that allows you to efficiently process and manage large volumes of data by distributing it to different processing paths based on specific conditions.
+
+## Is the multiplexer process always running or is it started up temporarily when processing jobs in abinitio?
+
+The Ab Initio Multiplexer component is not a standalone process that runs independently of other Ab Initio processes. Instead, it is a component that is used within an Ab Initio graph or data processing application to split a single input stream into multiple output streams based on specified conditions.
+
+When you design an Ab Initio graph or data processing application that includes a Multiplexer component, it is not running all the time, but it will be executed temporarily as part of the processing jobs. When the Ab Initio graph or application is run, the Multiplexer component will be started up as part of the job and will process the input data based on the specified conditions, creating the output streams as required.
+
+The Ab Initio software platform is designed to process large volumes of data and handle complex data integration scenarios, and the Multiplexer component is just one of many tools provided to achieve this. Ab Initio graphs or data processing applications can be executed on-demand or scheduled to run at specified intervals, depending on the needs of the organization.
