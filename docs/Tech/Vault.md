@@ -47,8 +47,3 @@ On the other hand, LDAP authentication is designed for human-to-machine communic
 In general, AppRole authentication is better suited for machine-to-machine communication, while LDAP authentication is better suited for human-to-machine communication. However, the choice between the two depends on your specific use case and security requirements.
 
 It's worth noting that Vault supports a wide range of authentication methods, including LDAP, AppRole, userpass, and more. You should choose the authentication method that best meets the needs of your application and aligns with your organization's security policies.
-
-
-
-
-Regenerate response
