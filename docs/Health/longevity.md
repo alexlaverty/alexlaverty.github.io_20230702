@@ -122,3 +122,11 @@ Minoxidil is also believed to help prolong the anagen (growth) phase of the hair
 Minoxidil is a vasodilator, meaning it widens the blood vessels. By increasing the blood flow to the hair follicles, minoxidil may improve the health of the follicles and promote the growth of new hair. However, the exact mechanism by which minoxidil promotes hair growth is still not fully understood and requires further research.
 
 It is important to note that minoxidil is not a cure for hair loss and its effects are not permanent. Once the use of minoxidil is discontinued, the benefits it provides will gradually disappear over time. Additionally, minoxidil is not effective for everyone and results may vary depending on the individual and the cause of their hair loss.
+
+## What is NAD?
+
+NAD (Nicotinamide adenine dinucleotide) is a coenzyme that plays a crucial role in various biological processes, including energy metabolism and DNA repair. In terms of longevity, NAD is believed to play a significant role in the aging process, as its levels decline as we age.
+
+Recent research has suggested that boosting NAD levels may have anti-aging effects, as it can help protect against DNA damage and oxidative stress, both of which are thought to contribute to the aging process. Some studies have even suggested that increasing NAD levels can extend lifespan in animal models.
+
+There are various ways to increase NAD levels, including through diet and supplements. However, more research is needed to fully understand the effects of NAD supplementation on human longevity.

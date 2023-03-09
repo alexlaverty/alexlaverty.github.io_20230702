@@ -48,3 +48,13 @@ To generate a model for use with TensorFlow or PyTorch, you typically follow the
 * Evaluate the model: This step involves using the testing data to evaluate the performance of your model. You can calculate metrics such as accuracy, precision, recall, and F1 score to determine how well your model is performing.
 
 * Use the model for inference: This step involves using the trained model to make predictions on new data. You can save the trained model to disk and load it into your application for use in real-world scenarios.
+
+## In coding what is polymorphism?
+
+Polymorphism is a fundamental concept in object-oriented programming (OOP) that allows objects of different classes to be treated as if they were objects of the same class. It enables a single interface to be implemented in different ways by different classes.
+
+In coding, polymorphism typically involves creating a class hierarchy with multiple classes that are related by inheritance. Each subclass inherits the properties and methods of its parent class, but can also define its own properties and methods or override those of its parent.
+
+Polymorphism allows you to write code that can work with objects of different classes, as long as they implement the same methods or properties defined in a common interface or superclass. This makes code more flexible and reusable, as it allows you to write functions or methods that can operate on different objects without knowing their specific types.
+
+There are two types of polymorphism: compile-time (or static) polymorphism and runtime (or dynamic) polymorphism. Compile-time polymorphism is achieved through function overloading, while runtime polymorphism is achieved through inheritance and virtual functions.
