@@ -1,8 +1,8 @@
 {
-  "label": "Health",
+  "label": "AWS",
   "position": 3,
   "link": {
     "type": "generated-index",
-    "description": "Health"
+    "description": "AWS"
   }
 }
