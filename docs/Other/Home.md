@@ -2,61 +2,61 @@
 sidebar_position: 8
 ---
 
-Designing my dream home.
+Designing my dream home using ChatGPT and Bing AI Image generation.
 
-* Japanese Wood Joinery House
+## Japanese Wood Joinery House
 
 <img src="/assets/img/dream-home/Japanese Wood Joinery House.jpg"/>
 
-* Japanese Sauna Room
+## Japanese Sauna Room
 
 <img src="/assets/img/dream-home/Japanese Sauna Room.jpg"/>
 
-* Ice Bath plunge
+## Ice Bath plunge
 
 <img src="/assets/img/dream-home/Ice Bath plunge.jpg"/>
 
-* Outdoor Exercise workout stations
+## Outdoor Exercise workout stations
 
 <img src="/assets/img/dream-home/Outdoor Exercise workout stations.jpg"/>
 
-* 3D Printed House with earth soil 
+## 3D Printed House with earth soil 
 
-??
+<img src="/assets/img/dream-home/3D Printed House with earth soil.jpg"/>
 
-* Smart roof with Solar Panel, water capture
+## Smart roof with Solar Panel, water capture
 
 <img src="/assets/img/dream-home/Smart roof with Solar Panel, water capture.jpg"/>
 
-* Water tank, wicking beds, float valve kratky systems, rain gutter grow system.
+## Water tank, wicking beds, float valve kratky systems, rain gutter grow system.
 
 <img src="/assets/img/dream-home/Water tank, wicking beds, float valve kratky systems, rain gutter grow system..jpg"/>
 
-* Swales, permaculture, raised garden beds.
+## Swales, permaculture, raised garden beds.
 
 <img src="/assets/img/dream-home/Swales, permaculture, raised garden beds.jpg"/>
 
-* Japansese garden, automated bonsai waterer.
+## Japansese garden, automated bonsai waterer.
 
 <img src="/assets/img/dream-home/Japansese garden, automated bonsai waterer.jpg"/>
 
-* Swimming for seafood, collecting lobsters, oysters, spear fishing.
+## Swimming for seafood, collecting lobsters, oysters, spear fishing.
 
-??
+<img src="/assets/img/dream-home/Swimming for seafood, collecting lobsters, oysters, spear fishing.jpg"/>
 
-* 3D Printer for parts
+## 3D Printer for parts
 
-<img src="/assets/img/dream-home/Japanese Wood Joinery House.jpg"/>
+<img src="/assets/img/dream-home/3D Printer for parts.jpg"/>
 
-* Open source house automation tracking software.
+## Open source house automation tracking software.
 
-<img src="/assets/img/dream-home/Japanese Wood Joinery House.jpg"/>
+<img src="/assets/img/dream-home/Open source house automation tracking software..jpg"/>
 
-* Large Natural Swimming Pool 
+## Large Natural Swimming Pool 
 
-<img src="/assets/img/dream-home/Japanese Wood Joinery House.jpg"/>
+<img src="/assets/img/dream-home/Large Natural Swimming Pool.jpg"/>
 
-* Alternative houses, EarthShip, Shipping Container, Geodesic Dome Tent.
+## Alternative houses, EarthShip, Shipping Container, Geodesic Dome Tent.
 
 ## Explore and expand on the idea of a community that lives next to a beautiful ocean, where people go diving for seafood, surf for exercise, have a technology focused and green energy powered computer automated hydroponic vegetable growing system, mass 3d printed houses, the 3d printer runs on rail tracks and uses a mix of cement and local soils to build the walls. 
 
