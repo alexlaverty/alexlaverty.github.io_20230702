@@ -2,6 +2,24 @@
 sidebar_position: 1
 ---
 
+## Give me a combination of foods that have broad and dense nutritional value
+
+Here's a combination of foods that have broad and dense nutritional value:
+
+Leafy Greens: Dark leafy greens such as spinach, kale, and collard greens are excellent sources of vitamins A, C, K, and folate. They also contain minerals such as calcium, iron, and magnesium.
+
+Cruciferous Vegetables: Vegetables such as broccoli, cauliflower, and Brussels sprouts are excellent sources of vitamins C, K, and folate. They also contain glucosinolates, which have been linked to cancer prevention.
+
+Berries: Berries such as blueberries, strawberries, and raspberries are rich in antioxidants, fiber, and vitamins C and K. They also contain anthocyanins, which have been linked to improved brain function and reduced inflammation.
+
+Whole Grains: Whole grains such as oats, quinoa, and brown rice are excellent sources of fiber, B vitamins, and minerals such as iron and magnesium. They also contain antioxidants and have been linked to a reduced risk of chronic diseases.
+
+Nuts and Seeds: Nuts such as almonds, cashews, and walnuts, and seeds such as chia and flaxseeds, are rich in healthy fats, protein, fiber, and minerals such as magnesium and zinc. They also contain antioxidants and have been linked to a reduced risk of chronic diseases.
+
+Legumes: Legumes such as lentils, chickpeas, and black beans are excellent sources of protein, fiber, and minerals such as iron and magnesium. They also contain antioxidants and have been linked to a reduced risk of chronic diseases.
+
+By including these nutrient-dense foods in your diet, you can ensure that you are getting a broad range of vitamins, minerals, and other important nutrients that your body needs to function properly.
+
 ## What foods are highest in anti oxidants?
 
 Many foods are high in antioxidants, and the specific highest depends on the specific antioxidant being measured. Here are some common foods that are high in antioxidants:
