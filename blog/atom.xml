@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://alexlaverty.github.io/blog</id>
+    <title>Alex Laverty Blog</title>
+    <updated>2023-02-02T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://alexlaverty.github.io/blog"/>
+    <subtitle>Alex Laverty Blog</subtitle>
+    <icon>https://alexlaverty.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Hello World]]></title>
+        <id>https://alexlaverty.github.io/blog/hello-world</id>
+        <link href="https://alexlaverty.github.io/blog/hello-world"/>
+        <updated>2023-02-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hello World,]]></summary>
+        <content type="html"><![CDATA[<p>Hello World,</p><p>This site was created on 2nd February 2023.</p>]]></content>
+        <author>
+            <name>Alex Laverty</name>
+            <uri>https://github.com/alexlaverty</uri>
+        </author>
+        <category label="blog" term="blog"/>
+    </entry>
+</feed>

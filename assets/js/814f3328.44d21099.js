@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkalexlaverty_github_io=self.webpackChunkalexlaverty_github_io||[]).push([[2535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Hello World","permalink":"/blog/hello-world"}]}')}}]);
