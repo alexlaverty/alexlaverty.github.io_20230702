@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "When Nature Strikes: A Norfolk Island Pine's Impact on a Coffee-Walker's Journey"
-date:   2016-10-28 1:00:00
+date:   2022-05-12
 categories: 
     - manly-beach
 thumbnail: /images/2022-05-12/001.webp
