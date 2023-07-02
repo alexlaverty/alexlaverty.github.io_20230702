@@ -1,0 +1,43 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <!--<h1 class="page-heading">Posts</h1>-->
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+      	
+
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+        <span class="post-meta">
+			<div class="meta-item">
+				<i class="fa fa-calendar"></i> 
+				{% assign d = post.date | date: "%-d" %}
+				{% case d %}{% when "1" or "21" or "31" %}{{ d }}st{% when "2" or "22" %}{{ d }}nd{% when "3" or "23" %}{{ d }}rd{% else %}{{ d }}th{% endcase %}
+				{{ post.date | date: "%B" }} 
+				{{ post.date | date: "%Y" }}
+				<i class="fa fa-user"></i>
+				<span class="vcard author"> 
+					<span class="fn"> By <a href="/{{ site.author | replace: " ", "-" | downcase }}">{{ site.author }}</a></span> 
+				</span>       
+				<i class="fa fa-hashtag"></i> 
+				{% for category in post.categories %} 
+					<a class="post-category" href="/category/{{category}}">{{category | replace: "-", " "}}</a>
+				{% endfor %}
+			</div>
+ 		</span> 
+ 		
+		<p><article>{{ post.excerpt }}</article></p>
+		<a class="continue-reading" href="{{ post.url | prepend: site.baseurl }}"> Continue Reading</a>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>
