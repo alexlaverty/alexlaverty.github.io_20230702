@@ -59,7 +59,8 @@ figure > img {
 }
 
 figcaption {
-    font-size: $small-font-size;
+    font-size: $figcaption-font-size;
+    margin-top: 10px;
 }
 
 

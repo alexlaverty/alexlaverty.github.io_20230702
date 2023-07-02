@@ -43,7 +43,8 @@ figure > img {
   display: block; }
 
 figcaption {
-  font-size: 14px; }
+  font-size: 17.6px;
+  margin-top: 10px; }
 
 /**
  * Lists
